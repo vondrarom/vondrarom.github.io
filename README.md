@@ -6,9 +6,9 @@
 [Урок 1](https://vondrarom.github.io/lesson_12/index.html "Готовое ДЗ")  
 [Урок 2](https://vondrarom.github.io/lesson_12/index.html "Готовое ДЗ")  
 [Урок 3](https://vondrarom.github.io/lesson_12/index.html "Готовое ДЗ")  
-[Урок 4](Ознакомился с правилами написания разметки "Готовое ДЗ")  
+[Урок 4](https://vondrarom.github.io/lesson_12/index.html "Готовое ДЗ")  
 [Урок 5](https://vondrarom.github.io/lesson_12/index.html "Готовое ДЗ")  
-[Урок 6](https://vondrarom.github.io/lesson_12/index.html "Готовое ДЗ")  
+#Урок 6  Ознакомился с правилами написания разметки HTML  
 [Урок 7](https://vondrarom.github.io/lesson_12/index.html "Готовое ДЗ")  
 [Урок 8](https://vondrarom.github.io/lesson_12/index.html "Готовое ДЗ")  
 [Урок 9](https://vondrarom.github.io/lesson_12/index.html "Готовое ДЗ")  
